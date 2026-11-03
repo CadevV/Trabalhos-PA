@@ -26,9 +26,9 @@ public class VetoresPrimos {
 				}
 			}
 			if(a[i] == 2 || a[i]>1 && a[i] % 2 != 0 && d == 2) {
-				System.out.println(a[i] + " √© numero primo,");
+				System.out.println(a[i] + " È numero primo,");
 			} else {
-				System.out.println(a[i] + " n√£o √© primo,");
+				System.out.println(a[i] + " n„o È primo,");
 			}
 		}
 		System.out.println("]");
